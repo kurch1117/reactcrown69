@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactcrown/static/css/main.e16fb7de.chunk.css",
+    "main.js": "/reactcrown/static/js/main.01b889a2.chunk.js",
+    "main.js.map": "/reactcrown/static/js/main.01b889a2.chunk.js.map",
+    "runtime-main.js": "/reactcrown/static/js/runtime-main.a4617675.js",
+    "runtime-main.js.map": "/reactcrown/static/js/runtime-main.a4617675.js.map",
+    "static/js/2.09493454.chunk.js": "/reactcrown/static/js/2.09493454.chunk.js",
+    "static/js/2.09493454.chunk.js.map": "/reactcrown/static/js/2.09493454.chunk.js.map",
+    "static/js/3.b5d16c86.chunk.js": "/reactcrown/static/js/3.b5d16c86.chunk.js",
+    "static/js/3.b5d16c86.chunk.js.map": "/reactcrown/static/js/3.b5d16c86.chunk.js.map",
+    "index.html": "/reactcrown/index.html",
+    "static/css/main.e16fb7de.chunk.css.map": "/reactcrown/static/css/main.e16fb7de.chunk.css.map",
+    "static/js/2.09493454.chunk.js.LICENSE.txt": "/reactcrown/static/js/2.09493454.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/reactcrown/static/media/crown.3a4e2b15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4617675.js",
+    "static/js/2.09493454.chunk.js",
+    "static/css/main.e16fb7de.chunk.css",
+    "static/js/main.01b889a2.chunk.js"
+  ]
+}
